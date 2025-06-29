@@ -1,5 +1,5 @@
 # Simple_Math_Eng
-Engineering Math with Mohammadreza Ahmadi | آموزش ریاضی مهندسی با محمدرضا احمدی
+Engineering Math with Mohammadreza Ahmadi | آموزش ریاضی با محمدرضا احمدی
 # 🎓 Engineering Mathematics | آموزش ریاضی مهندسی
 
 📌 Mohammadreza Ahmadi Darani | محمدرضا احمدی دارانی
