@@ -1,4 +1,4 @@
-# Simple_Math_Eng
+# Ma10-Mathematical-Engineering
 Engineering Math with Mohammadreza Ahmadi | آموزش ریاضی با محمدرضا احمدی
 # 🎓 Engineering Mathematics | آموزش ریاضی مهندسی
 
